@@ -1,0 +1,6 @@
+{
+  "name": "GeM AI Bid Compliance Verification Platform",
+  "description": "AI-assisted integrated bid compliance verification and decision-support system for GeM procurement officers (SIH 2026 - CPCL).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
